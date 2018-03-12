@@ -1,0 +1,576 @@
+# depslib dependency file v1.0
+1428976523 source:f:\sem 2\projet jeu 2 d\tous les projets code  blocks\jeu candy crush\candy crush\main.cpp
+	<iostream>
+	<ctime>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"initialiser.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1427192778 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_platform.h
+
+1326114594 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files (x86)\codeblocks\sdl-1.2.15\include\begin_code.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\close_code.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_keysym.h
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1428754308 f:\sem 2\projet jeu 2 d\tous les projets code  blocks\jeu candy crush\candy crush\candy.h
+	"constantes.h"
+
+1428389449 f:\sem 2\projet jeu 2 d\tous les projets code  blocks\jeu candy crush\candy crush\constantes.h
+
+1428971199 f:\sem 2\projet jeu 2 d\tous les projets code  blocks\jeu candy crush\candy crush\initialiser.h
+
+1428976523 source:f:\sem 2\projet jeu 2 d\tous les projets code  blocks\jeu candy crush\candy crush\initialiser.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<ctime>
+	"initialiser.h"
+
+1431610698 source:c:\users\hp envy\desktop\oussamaa\main.cpp
+	<iostream>
+	<ctime>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"initialiser.h"
+	"niveau_1.h"
+	"niveau_2.h"
+	"niveau_3.h"
+	"deplacer.h"
+	"constantes.h"
+	<SDL/SDL_ttf.h>
+
+1431504659 c:\users\hp envy\desktop\oussamaa\initialiser.h
+	<SDL/SDL.h>
+	<SDL_image.h>
+
+1429614256 source:c:\users\hp envy\desktop\candy crush final\oussamaa\main.cpp
+	<iostream>
+	<ctime>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"initialiser.h"
+	"function.h"
+	"deplacer.h"
+	<SDL/SDL_ttf.h>
+
+1429373886 c:\users\hp envy\desktop\candy crush final\oussamaa\initialiser.h
+
+1429563165 source:c:\users\hp envy\desktop\candy crush final\oussamaa\deplacer.cpp
+	"deplacer.h"
+	"function.h"
+
+1429617640 source:c:\users\hp envy\desktop\candy crush final\oussamaa\initialiser.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<ctime>
+	"initialiser.h"
+	"deplacer.h"
+
+1429552198 c:\users\hp envy\desktop\candy crush final\oussamaa\deplacer.h
+	<SDL/SDL.h>
+
+1429378704 c:\users\hp envy\desktop\candy crush final\oussamaa\function.h
+	<SDL/SDL.h>
+
+1429379111 source:c:\users\hp envy\desktop\candy crush final\oussamaa\function.cpp
+	"function.h"
+
+1325796794 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1429563165 source:f:\sem 2\projet jeu 2 d\tous les projets code  blocks\oussamaa\deplacer.cpp
+	"deplacer.h"
+	"function.h"
+
+1429552198 f:\sem 2\projet jeu 2 d\tous les projets code  blocks\oussamaa\deplacer.h
+	<SDL/SDL.h>
+
+1429378704 f:\sem 2\projet jeu 2 d\tous les projets code  blocks\oussamaa\function.h
+	<SDL/SDL.h>
+
+1429379111 source:f:\sem 2\projet jeu 2 d\tous les projets code  blocks\oussamaa\function.cpp
+	"function.h"
+
+1429880805 source:f:\sem 2\projet jeu 2 d\tous les projets code  blocks\oussamaa\initialiser.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<ctime>
+	"initialiser.h"
+	"deplacer.h"
+
+1429877424 f:\sem 2\projet jeu 2 d\tous les projets code  blocks\oussamaa\initialiser.h
+
+1429880722 source:f:\sem 2\projet jeu 2 d\tous les projets code  blocks\oussamaa\main.cpp
+	<iostream>
+	<ctime>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"initialiser.h"
+	"function.h"
+	"deplacer.h"
+	<SDL/SDL_ttf.h>
+
+1431608436 source:c:\users\hp envy\desktop\oussamaa\deplacer.cpp
+	"deplacer.h"
+	"initialiser.h"
+	<SDL/SDL.h>
+	<SDL_mixer.h>
+	<iostream>
+
+1431471934 c:\users\hp envy\desktop\oussamaa\deplacer.h
+	<SDL/SDL.h>
+
+1429378704 c:\users\hp envy\desktop\oussamaa\function.h
+	<SDL/SDL.h>
+
+1431306488 source:c:\users\hp envy\desktop\oussamaa\function.cpp
+	"function.h"
+
+1431610773 source:c:\users\hp envy\desktop\oussamaa\initialiser.cpp
+	"initialiser.h"
+	<SDL_mixer.h>
+	<ctime>
+
+1431431897 c:\users\hp envy\desktop\oussamaa\niveau_1.h
+
+1431440561 c:\users\hp envy\desktop\oussamaa\niveau_2.h
+	"niveau_2.h"
+
+1431440561 c:\users\hp envy\desktop\oussamaa\niveau_3.h
+	"niveau_3.h"
+
+1431343787 source:c:\users\hp envy\desktop\oussamaa\jouer.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<ctime>
+	"initialiser.h"
+	"jouer.h"
+
+1431343787 c:\users\hp envy\desktop\oussamaa\jouer.h
+
+1431538057 source:c:\users\hp envy\desktop\oussamaa\niveau_1.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<ctime>
+	"initialiser.h"
+	"deplacer.h"
+	"niveau_1.h"
+
+1431538057 source:c:\users\hp envy\desktop\oussamaa\niveau_2.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<ctime>
+	"initialiser.h"
+	"niveau_2.h"
+	"deplacer.h"
+
+1431537056 source:c:\users\hp envy\desktop\oussamaa\niveau_3.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<ctime>
+	"initialiser.h"
+	"niveau_3.h"
+	"deplacer.h"
+
+1431420700 c:\users\hp envy\desktop\oussamaa\pile.h
+
+1431420549 source:c:\users\hp envy\desktop\oussamaa\pile.cpp
+	<iostream>
+	"pile.h"
+
+1431508893 c:\users\hp envy\desktop\oussamaa\declared.h
+
+1431536492 c:\users\hp envy\desktop\oussamaa\constantes.h
+

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="candy crush" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/candy crush" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/candy crush" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/SDL-1.2.15/include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add library="C:\Program Files (x86)\CodeBlocks\SDL-1.2.15\lib\SDL_image.lib" />
+			<Add library="C:\Program Files (x86)\CodeBlocks\MinGW\lib\SDL_mixer.lib" />
+			<Add library="C:\Program Files (x86)\CodeBlocks\SDL-1.2.15\lib\SDL_ttf.lib" />
+			<Add library="C:\Program Files (x86)\CodeBlocks\MinGW\lib\SDL_ttf.lib" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/SDL-1.2.15/lib" />
+		</Linker>
+		<Unit filename="Croissant.bmp" />
+		<Unit filename="Cupcake.bmp" />
+		<Unit filename="Cupcake_raye.bmp" />
+		<Unit filename="Danish.bmp" />
+		<Unit filename="Danish_raye.bmp" />
+		<Unit filename="Donut.bmp" />
+		<Unit filename="Donut_raye.bmp" />
+		<Unit filename="Macaroon.bmp" />
+		<Unit filename="Macaroon_raye.bmp" />
+		<Unit filename="Nouvelle image.bmp" />
+		<Unit filename="SDL2_ttf.dll" />
+		<Unit filename="SugarCookie.bmp" />
+		<Unit filename="SugarCookie_raye.bmp" />
+		<Unit filename="candy crush ensi.layout" />
+		<Unit filename="candy crush.layout" />
+		<Unit filename="constant.h" />
+		<Unit filename="croissant_raye.bmp" />
+		<Unit filename="deplacer.h" />
+		<Unit filename="easy _red.jpg" />
+		<Unit filename="function.cpp" />
+		<Unit filename="function.h" />
+		<Unit filename="game_over.jpg" />
+		<Unit filename="grille_5X5.bmp" />
+		<Unit filename="hard_red.jpg" />
+		<Unit filename="interface_acceuil.bmp" />
+		<Unit filename="logo_ensi.jpg" />
+		<Unit filename="main.cpp" />
+		<Unit filename="medium_red.jpg" />
+		<Unit filename="moves.bmp" />
+		<Unit filename="musique.mp3" />
+		<Unit filename="niv_1.png" />
+		<Unit filename="niveau.h" />
+		<Unit filename="niveau_1.cpp" />
+		<Unit filename="niveau_2.cpp" />
+		<Unit filename="niveau_3.cpp" />
+		<Unit filename="play.cpp" />
+		<Unit filename="play.h" />
+		<Unit filename="play_button.bmp" />
+		<Unit filename="play_button_red.bmp" />
+		<Unit filename="poligras.TTF" />
+		<Unit filename="return_button.jpg" />
+		<Unit filename="score.png" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
